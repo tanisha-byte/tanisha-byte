@@ -5,12 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/tanishasharmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tanishasharmax" height="30" width="40" /></a>
 <a href="https://twitter.com/tanishasharmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanishasharmax" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanisha-sharma07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanisha-sharma07" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tanishasharmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tanishasharmax" height="30" width="40" /></a>
-<a href="https://kaggle.com/tanishasharmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanishasharmax" height="30" width="40" /></a>
-<a href="https://instagram.com/tanishasharmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanishasharmax" height="30" width="40" /></a>
 <a href="https://hashnode.com/@tanishasharmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tanishasharmax" height="30" width="40" /></a>
 <a href="https://medium.com/@tanishasharma7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanishasharma7781" height="30" width="40" /></a>
 </p>
